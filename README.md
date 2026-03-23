@@ -53,6 +53,10 @@ A CLI tool that scaffolds production-ready Go microservices from **protobuf defi
 ### [carpark](https://github.com/jacksonfernando/carpark) &nbsp;![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 A REST API that finds the **nearest available car parks** to any location using Singapore government open data. Features real-time availability updates (every 15 min), SVY21→WGS84 coordinate conversion, Redis geospatial caching, MySQL spatial indexing, and streaming batch ingestion — processing 2,000+ car parks in under a second.
 
+---
+
+### [interpreter-using-golang](https://github.com/jacksonfernando/interpreter-using-golang) &nbsp;![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+A fully functional **interpreter built from scratch in Go**, following Thorsten Ball's *Writing An Interpreter In Go*. Implements a complete pipeline — lexer → parser → AST → evaluator — with a working REPL. A deep-dive into how programming languages work under the hood.
 
 ---
 

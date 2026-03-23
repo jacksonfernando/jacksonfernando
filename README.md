@@ -36,6 +36,7 @@ I enjoy crafting clean, scalable backends and have a good eye for the full stack
 
 | Period | Role | Company |
 |---|---|---|
+| Jan 2026 – Present | Mid Backend Software Engineer | Amartha Financial |
 | Jan 2024 – Dec 2025 | Software Engineer – Backend | Superbank |
 | Jul 2023 – Jan 2024 | Software Engineer – Backend | Roojai |
 | Mar 2020 – May 2023 | Fullstack Software Engineer – SME Digital Bank | PT Bank BTPN Tbk (SMBC) |

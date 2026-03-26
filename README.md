@@ -61,6 +61,11 @@ A fully functional **interpreter built from scratch in Go**, following Thorsten 
 
 ---
 
+### [interpeter-using-c](https://github.com/jacksonfernando/interpeter-using-c) &nbsp;![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+A complete implementation of the **Lox language** in C as a bytecode VM, following Robert Nystrom's *Crafting Interpreters* (Part III). Covers the full language — closures, garbage collection, classes with inheritance, and a native REPL — all built at the metal with no dependencies.
+
+---
+
 ## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-fernando-bb5a87179/)

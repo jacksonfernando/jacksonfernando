@@ -1,6 +1,6 @@
 # Hi, I'm Jackson Fernando 👋
 
-I'm a software engineer with **5+ years of experience** building products across the **financial, insurance, and telecommunications** industries — from digital banking platforms to telco apps and insurance systems.
+I'm a software engineer with 6+ years of experience** building products across the **financial, insurance, and telecommunications** industries — from digital banking platforms to telco apps and insurance systems.
 
 I enjoy crafting clean, scalable backends and have a good eye for the full stack. I'm always keen to learn new tools and solve meaningful problems.
 

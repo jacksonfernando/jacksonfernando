@@ -46,11 +46,6 @@ I enjoy crafting clean, scalable backends and have a good eye for the full stack
 
 ## 🚀 Featured Projects
 
-### [a-kit](https://github.com/jacksonfernando/a-kit) &nbsp;![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-A CLI tool that scaffolds production-ready Go microservices from **protobuf definitions** (Google API style) — no `protoc` needed. Define your service in a `.proto` file and `a-kit generate` produces handlers, services, repositories, mocks, and unit tests, all wired up and ready to go.
-
----
-
 ### [carpark](https://github.com/jacksonfernando/carpark) &nbsp;![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 A REST API that finds the **nearest available car parks** to any location using Singapore government open data. Features real-time availability updates (every 15 min), SVY21→WGS84 coordinate conversion, Redis geospatial caching, MySQL spatial indexing, and streaming batch ingestion — processing 2,000+ car parks in under a second.
 
